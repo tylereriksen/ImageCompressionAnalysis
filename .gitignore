@@ -1,0 +1,5 @@
+dataset/
+venv/
+*.bin
+*.png
+*.JPG
