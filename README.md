@@ -19,6 +19,8 @@ $ pip install -r requirements.txt
 ```
 Once you do this, your environment is read to run all the 3 python notebooks.
 
+All these instructions are for `Python 3.11.4`
+
 Download the data by running 'bash download_dataset.sh' (TODO could integrade this to main instructions above)
 
 The notebooks are self-complete and no dependency on any other file. Running all the cells from top to bottom will give you the result in the last cell where 5 images original and compressed titled with their sizes in bytes and compression factor for each compressed image.
