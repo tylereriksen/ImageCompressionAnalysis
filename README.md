@@ -10,7 +10,7 @@ Our experiments are stored in `experiments.ipynb`, which can be used to reproduc
 
 ## Setup
 
-Prerequisites: python 3.11.9 installed.
+Prerequisites: python 3.11.9 installed, wget installed.
 
 Once you have cloned this repo, run the following command in your working directory:
 
