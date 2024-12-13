@@ -27,3 +27,5 @@ The notebooks are self-complete and no dependency on any other file. Running all
 Our results can be reproduced by running `experiments.ipynb` with `venv` as the python kernel.
 
 The notebook is self-contained and requires no external files. Simply run all cells from top to bottom. The first three sections perform experiments with each method separately using 5 sample images. The last section runs the combined experiments and produces a scatter plot comparing different methods.
+
+[View the PDF](DSC_210_Group_18_Project_Report.pdf)
