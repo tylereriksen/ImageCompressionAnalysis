@@ -28,5 +28,5 @@ Our results can be reproduced by running `experiments.ipynb` with `venv` as the 
 
 The notebook is self-contained and requires no external files. Simply run all cells from top to bottom. The first three sections perform experiments with each method separately using 5 sample images. The last section runs the combined experiments and produces a scatter plot comparing different methods.
 
-## Group Report
-You can click [here](DSC_210_Group_18_Project_Report.pdf) to view our report on image compression techniques.
+## Report
+You can click [here](DSC_210_Group_18_Project_Report.pdf) to view our report on image compression techniques and their comparisons. Results are all taken from `experiments.ipynb` outputs as well as the individual notebooks we used to test SVD, huffman coding, and LIC image compression techniques found in `SVD_ImageCompression.ipynb`, `huffmancoding.ipynb`, and `lic_test.ipynb` respectively.
